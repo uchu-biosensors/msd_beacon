@@ -1,0 +1,1 @@
+This repository contains an extended version of the 'ble_app_beacon' example provided from within the Nordic Semiconductors nRF5 SDK V15.3.0. The application records pH and temperature data from external peripherals and transmits the data directly within an advertising packet. The beacon utilizes a non-scannable, non-connectable configuration to conserve maximum power. 
